@@ -14,9 +14,9 @@
 
 В проекте использованы следующие библиотеки:
 
-pandas - для работы с данными
+<b>pandas</b> - для работы с данными
 
-pymystem3 - для лемматизации
+<b>pymystem3</b> - для лемматизации
 
 [03 Исследование объявлений о продаже квартир](https://github.com/DEDMOPO3PEAHIMATOP/Yandex_Practicum/blob/main/03_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BE_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb)
 
@@ -24,9 +24,9 @@ pymystem3 - для лемматизации
 
 В проекте использованы следующие библиотеки:
 
-pandas
+<b>pandas</b>
 
-matplotlib.pyplot
+<b>matplotlib.pyplot</b>
 
 [04 Определение перспективного проекта для телеком-компании](https://github.com/DEDMOPO3PEAHIMATOP/Yandex_Practicum/blob/main/04_%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb)
 
@@ -34,12 +34,12 @@ matplotlib.pyplot
 
 В проекте использованы следующие библиотеки:
 
-pandas для работы с lfyysvb
+<b>pandas</b> для работы с данными
 
-numpy для работы с математическими функциями и массивами
+<b>numpy</b> для работы с математическими функциями и массивами
 
-matplotlib.pyplot для построения графиков
+<b>matplotlib.pyplot</b> для построения графиков
 
-seaborn для визуализации
+<b>seaborn</b> для визуализации
 
-scipy для проверки гипотез
+<b>scipy</b> для проверки гипотез
